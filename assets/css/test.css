@@ -1,0 +1,14 @@
+.banner-area1 {
+  padding: 300px 0px 250px;
+  background-color: #b0b0b0;
+  background-image: url("../images/hospital-mangement-software.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+
+.videos {
+  display: flex;
+  justify-content: center;
+}
